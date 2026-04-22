@@ -1,6 +1,6 @@
 # Olá, eu sou Luana Rodrigues! 👋
 
-Sou uma entusiasta de tecnologia em transição de carreira, trocando a gestão de projetos complexos pelas linhas de código. Atualmente, mergulhado no curso de **Análise e Desenvolvimento de Sistemas** e focado em construir soluções que realmente resolvam problemas.
+Sou uma entusiasta de tecnologia em transição de carreira, trocando a gestão de projetos complexos pelas linhas de código. Atualmente, estou cursando  **Análise e Desenvolvimento de Sistemas** e focada em construir soluções que realmente resolvam problemas.
 
 ### 🚀 O que estou fazendo agora:
 - 🎓 Estudante de ADS (1º período).
@@ -15,6 +15,4 @@ Sou uma entusiasta de tecnologia em transição de carreira, trocando a gestão 
 
 ---
 
-> "Se você procura alguém que entende tanto de processos quanto de código limpo, vamos trocar uma ideia!"
-
-📫 **Como me encontrar:** [Luana Rodrigues Linkedin](https://www.linkedin.com/in/luanarodriguesads/)", e também através do Instagram, com o perfil chamado "[@euluana.rodriguess](https://www.instagram.com/euluana.rodriguess/?hl=en)".
+📫 **Como me encontrar:** [Meu Linkedin](https://www.linkedin.com/in/luanarodriguesads/)", e também através do Instagram, com o perfil chamado "[@euluana.rodriguess](https://www.instagram.com/euluana.rodriguess/?hl=en)".
