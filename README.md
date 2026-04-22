@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Luana Rodrigues! 👋
 
-<!--
-**euluanarodrigues-dev/euluanarodrigues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma entusiasta de tecnologia em transição de carreira, trocando a gestão de projetos complexos pelas linhas de código. Atualmente, mergulhado no curso de **Análise e Desenvolvimento de Sistemas** e focado em construir soluções que realmente resolvam problemas.
 
-Here are some ideas to get you started:
+### 🚀 O que estou fazendo agora:
+- 🎓 Estudante de ADS (1º período).
+- 💻 Explorando o ecossistema **Java** e o poder do **React**.
+- 🤖 Integrando **Inteligência Artificial** para otimizar fluxos e automações.
+- 🎨 No Front-end, meu mantra é *Mobile First* e acessibilidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Toolbox Técnica:
+- **Linguagens:** Java, Python, JavaScript.
+- **Frameworks/Libs:** React, Django.
+- **Soft Skills:** Agilidade (Kanban), visão analítica e foco em entrega de qualidade.
+
+---
+
+> "Se você procura alguém que entende tanto de processos quanto de código limpo, vamos trocar uma ideia!"
+
+📫 **Como me encontrar:** [Luana Rodrigues Linkedin](https://www.linkedin.com/in/luanarodriguesads/)", e também através do Instagram, com o perfil chamado "[@euluana.rodriguess](https://www.instagram.com/euluana.rodriguess/?hl=en)".
