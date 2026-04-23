@@ -15,4 +15,4 @@ Sou uma entusiasta de tecnologia em transição de carreira, trocando a gestão 
 
 ---
 
-📫 **Como me encontrar:** [Meu Linkedin](https://www.linkedin.com/in/luanarodriguesads/)", e também através do Instagram, com o perfil chamado "[@euluana.rodriguess](https://www.instagram.com/euluana.rodriguess/?hl=en)".
+📫 **Como me encontrar:** [Meu Linkedin](https://www.linkedin.com/in/luanarodriguesads/)"
