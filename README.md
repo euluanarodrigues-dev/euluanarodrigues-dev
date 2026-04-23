@@ -15,4 +15,4 @@ Sou uma entusiasta de tecnologia em transição de carreira, trocando a gestão 
 
 ---
 
-📫 **Como me encontrar:** [Meu Linkedin](https://www.linkedin.com/in/luanarodriguesads/)"
+📫 **Como me encontrar:** [Meu Linkedin](https://www.linkedin.com/in/luanarodriguesads/)
