@@ -8,10 +8,6 @@
 
 </div>
 
-### 💻 Student of Systems Development | Front-End | AI 
-
----
-
 ## 🧑‍💻 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
@@ -34,8 +30,7 @@
 
 ## 🎯 Objetivo de Carreira
 
-Transição da gestão de projetos para o mundo da programação. 🚀 Busco meu primeiro estágio em Desenvolvimento ou IA para adquirir experiência prática, combinando habilidades analíticas, agilidade e programação para criar soluções que façam a diferença.
-
+Transição da gestão de projetos para o mundo da programação. Busco meu primeiro estágio em Desenvolvimento ou IA para adquirir experiência prática, combinando habilidades analíticas, agilidade e programação para criar soluções que façam a diferença.
 ---
 
 ## 🔥 GitHub Stats & Streak
@@ -67,7 +62,7 @@ Transição da gestão de projetos para o mundo da programação. 🚀 Busco meu
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFB6C1&height=100&section=footer)
 
 </div>
 
