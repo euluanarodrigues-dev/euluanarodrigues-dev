@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-🔎 Focado em Programação e Inteligência Artificial
-📊 Atualmente estudando Java, Python e Linguagem C
-🎯 Buscando minha primeira oportunidade na área de tecnologia
-💻 Sempre aprendendo e aprimorando minhas habilidades técnicas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔎 Focado em Programação e Inteligência Artificial  
+📊 Atualmente estudando Java, Python e Linguagem C  
+🎯 Buscando minha primeira oportunidade na área de tecnologia  
+💻 Sempre aprendendo e aprimorando minhas habilidades técnicas  
 
 ---
 
