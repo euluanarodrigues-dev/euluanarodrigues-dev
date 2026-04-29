@@ -53,11 +53,6 @@ Transição da gestão de projetos para o mundo da programação. 🚀 Busco meu
 
 </div>
 
----
-
-![Snake animation](https://github.com/euluanarodrigues-dev/euluanarodrigues-dev/blob/output/github-contribution-grid-snake.svg)
----
-
 ## 📜 Certificações
 
 | Certificação | Instituição | Status |
