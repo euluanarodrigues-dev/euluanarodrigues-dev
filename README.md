@@ -12,28 +12,29 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mim
 
-🎓 Student of Systems Analysis and Development
-🔎 Focused on Programming and Artificial Intelligence
-📊 Currently studying Java | Python and C Language
-🎯 Seeking my first opportunity in the technology field
-💻 Always learning and improving my technical skills
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🔎 Focado em Programação e Inteligência Artificial
+📊 Atualmente estudando Java, Python e Linguagem C
+🎯 Buscando minha primeira oportunidade na área de tecnologia
+💻 Sempre aprendendo e aprimorando minhas habilidades técnicas
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Conjunto de tecnologias
 
 <div align="center">
  <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode,mysql,jira,miro,microsoft" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,git,github,vscode,mysql,jira,miro,microsoft" />
 </p>
 </div>
+
 ---
 
-## 🎯 Career Goal
+## 🎯 Objetivo de Carreira
 
-Transitioning from project management to the world of coding. 🚀 Seeking my first internship in Development or AI to get hands-on experience, combining analytical skills, agility, and programming to create solutions that make a difference.
+Transição da gestão de projetos para o mundo da programação. 🚀 Busco meu primeiro estágio em Desenvolvimento ou IA para adquirir experiência prática, combinando habilidades analíticas, agilidade e programação para criar soluções que façam a diferença.
 
 ---
 
