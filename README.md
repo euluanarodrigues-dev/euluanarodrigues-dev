@@ -31,22 +31,8 @@
 ## 🎯 Objetivo de Carreira
 
 Transição da gestão de projetos para o mundo da programação. Busco meu primeiro estágio em Desenvolvimento ou IA para adquirir experiência prática, combinando habilidades analíticas, agilidade e programação para criar soluções que façam a diferença.
+
 ---
-
-## 🔥 GitHub Stats & Streak
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=euluanarodrigues-dev&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euluanarodrigues-dev&layout=compact&langs_count=6&theme=rose_pine"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=euluanarodrigues-dev&theme=rose_pine&hide_border=false&locale=pt_BR)
-
-</div>
 
 ## 📜 Certificações
 
