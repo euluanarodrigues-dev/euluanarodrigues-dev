@@ -4,14 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+a+Luana!;Estagi%C3%A1ria+de+Software+%26+IA;Gest%C3%A3o+de+Projetos+%7C+Agilidade+%7C+Código;Focada+em+Inova%C3%A7%C3%A3o+e+Resultados" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+Luana!;Estagi%C3%A1ria+de+Software+%26+IA;Gest%C3%A3o+de+Projetos+%7C+Agilidade+%7C+Código;Focada+em+Inova%C3%A7%C3%A3o+e+Resultados" />
 
 </div>
 
 ## 🧑‍💻 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔎 Focado em Programação e Inteligência Artificial  
+🔎 Focada em Programação e Inteligência Artificial  
 📊 Atualmente estudando Java, Python e Linguagem C  
 🎯 Buscando minha primeira oportunidade na área de tecnologia  
 💻 Sempre aprendendo e aprimorando minhas habilidades técnicas  
@@ -30,7 +30,7 @@
 
 ## 🎯 Objetivo de Carreira
 
-Transição da gestão de projetos para o mundo da programação. Busco meu primeiro estágio em Desenvolvimento ou IA para adquirir experiência prática, combinando habilidades analíticas, agilidade e programação para criar soluções que façam a diferença.
+Estou em transição da gestão de projetos para o mundo da programação. Busco meu primeiro estágio em Desenvolvimento ou IA para adquirir experiência prática, combinando habilidades analíticas, agilidade e programação para criar soluções que façam a diferença.
 
 ---
 
