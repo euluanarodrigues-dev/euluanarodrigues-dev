@@ -12,7 +12,7 @@
 *   🎓 **Formação:** Graduanda em Análise e Desenvolvimento de Sistemas (Previsão: Dez/2027).
 *   🚀 **Foco:** Engenharia de Software, Inteligência Artificial e Cloud Computing.
 *   🏆 **Bootcamps:** Participante ativa do *Santander AI Java Backend* e *CODE GIRL AWS* (Conclusão: Ago/2026).
-*   💼 **Bagagem:** Antes de migrar para tech, coordenei +35 projetos, gerindo custos e fornecedores. Sou Especialista em Agilidade (University of Colorado).
+*   💼 **Bagagem:** Antes de migrar para tech, coordenei +35 projetos, gerindo custos e fornecedores. Sou Especialista em Agilidade pela (University of Colorado Boulder)
 *   💡 **Meu Diferencial:** Uno a visão analítica e estratégica da gestão à construção de sistemas seguros, eficientes e automatizados.
 
 ---
