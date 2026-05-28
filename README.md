@@ -47,7 +47,8 @@
 ---
 
 ### 📊 Minha Evolução no GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=euluanarodrigues-dev&show_icons=true&theme=pink&include_all_commits=true&locale=pt-br" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euluanarodrigues-dev&theme=pink&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=euluanarodrigues-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euluanarodrigues-dev&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" />
 </p>
